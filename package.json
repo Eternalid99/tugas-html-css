@@ -1,0 +1,25 @@
+{
+  "name": "eternal.id",
+  "version": "1.0.0",
+  "description": "Tailwind CSS and Flowbite for SaaS and product websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "landing",
+    "page",
+    "tailwind",
+    "tailwind",
+    "css",
+    "flowbite",
+    "responsive",
+    "html",
+    "css",
+    "javascript",
+    "design"
+  ],
+  "dependencies": {
+    "flowbite": "^1.4.7"
+  }
+}
